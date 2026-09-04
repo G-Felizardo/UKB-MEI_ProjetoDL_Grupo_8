@@ -6,9 +6,9 @@ INTEGRANTES:
   2 - Dumilde Filipe Kambango - dumilderaby@gmail.com
   3 - Edilson Junqueira C. Canõma - jaguasj@gmail.com
 
-# AI vs Human Text Detection — Trabalho de Aprendizagem Profunda
+AI vs Human Text Detection — Trabalho de Aprendizagem Profunda
 
-## Objetivo
+Objetivo
 Classificar textos em inglês em duas classes: `human` e `ai`, seguindo o enunciado do trabalho prático.
 
 ## Dataset recebido
