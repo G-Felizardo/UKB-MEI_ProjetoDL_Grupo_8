@@ -1,4 +1,4 @@
-[dataset_complete.csv](https://github.com/user-attachments/files/31833068/dataset_complete.csv)# UKB-MEI_ProjetoDL_Grupo_8
+## UKB-MEI_ProjetoDL_Grupo_8
 Projeto Prático de Deep Learning UKB-MEI/2026 - Detecção de Texto Gerado por IA vs Humano.
 
 INTEGRANTES:
@@ -9,6 +9,7 @@ INTEGRANTES:
 ## AI vs Human Text Detection — Trabalho de Aprendizagem Profunda
 
 Enunciado: [Enunciado_Trabalho.pdf](https://github.com/user-attachments/files/31832144/Enunciado_Trabalho.pdf)
+DataSet: [dataset_complete.csv](https://github.com/user-attachments/files/31833068/dataset_complete.csv)
 
 ## Objetivo
 Classificar textos em inglês em duas classes: `human` e `ai`, seguindo o enunciado do trabalho prático.
