@@ -2,13 +2,15 @@
 Projeto Prático de Deep Learning UKB-MEI/2026 - Detecção de Texto Gerado por IA vs Humano.
 
 INTEGRANTES:
-  1 - Gonçalves Faria Felizardo - gfelizardo96@gmail.com
-  2 - Dumilde Filipe Kambango - dumilderaby@gmail.com
-  3 - Edilson Junqueira C. Canõma - jaguasj@gmail.com
+  1. Gonçalves Faria Felizardo - gfelizardo96@gmail.com
+  2. Dumilde Filipe Kambango - dumilderaby@gmail.com
+  3. Edilson Junqueira C. Canõma - jaguasj@gmail.com
 
-AI vs Human Text Detection — Trabalho de Aprendizagem Profunda
+## AI vs Human Text Detection — Trabalho de Aprendizagem Profunda
 
-Objetivo
+Enunciado: [Enunciado_Trabalho.pdf](https://github.com/user-attachments/files/31832144/Enunciado_Trabalho.pdf)
+
+## Objetivo
 Classificar textos em inglês em duas classes: `human` e `ai`, seguindo o enunciado do trabalho prático.
 
 ## Dataset recebido
