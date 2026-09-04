@@ -1,0 +1,17 @@
+{
+  "rows": 100,
+  "columns": 8,
+  "class_counts": {
+    "human": 51,
+    "ai": 49
+  },
+  "missing_text": 0,
+  "duplicate_texts": 0,
+  "word_count_min": 100,
+  "word_count_max": 123,
+  "word_count_mean": 114.24,
+  "word_count_std": 5.386327622093299,
+  "sentence_count_mean": 5.7,
+  "ai_mean_words": 114.51020408163265,
+  "human_mean_words": 113.98039215686275
+}

@@ -1,0 +1,52 @@
+{
+  "LogReg": {
+    "accuracy": 0.6,
+    "precision": 1.0,
+    "recall": 0.25,
+    "f1": 0.4,
+    "tp": 2,
+    "tn": 7,
+    "fp": 0,
+    "fn": 6
+  },
+  "NumPy DNN": {
+    "accuracy": 0.7333333333333333,
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1": 0.75,
+    "tp": 6,
+    "tn": 5,
+    "fp": 2,
+    "fn": 2
+  },
+  "PyTorch DNN": {
+    "accuracy": 0.8666666666666667,
+    "precision": 0.875,
+    "recall": 0.875,
+    "f1": 0.875,
+    "tp": 7,
+    "tn": 6,
+    "fp": 1,
+    "fn": 1
+  },
+  "LSTM": {
+    "accuracy": 0.6,
+    "precision": 0.75,
+    "recall": 0.375,
+    "f1": 0.5,
+    "tp": 3,
+    "tn": 6,
+    "fp": 1,
+    "fn": 5
+  },
+  "Transformer": {
+    "accuracy": 0.4,
+    "precision": 0.4,
+    "recall": 0.25,
+    "f1": 0.3076923076923077,
+    "tp": 2,
+    "tn": 4,
+    "fp": 3,
+    "fn": 6
+  }
+}
