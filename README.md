@@ -8,8 +8,8 @@ INTEGRANTES:
 
 ## AI vs Human Text Detection — Trabalho de Aprendizagem Profunda
 
-Enunciado: [Enunciado_Trabalho.pdf](https://github.com/user-attachments/files/31832144/Enunciado_Trabalho.pdf)
-DataSet: [dataset_complete.csv](https://github.com/user-attachments/files/31833068/dataset_complete.csv)
+  1. Enunciado: [Enunciado_Trabalho.pdf](https://github.com/user-attachments/files/31832144/Enunciado_Trabalho.pdf)
+  2. DataSet: [dataset_complete.csv](https://github.com/user-attachments/files/31833068/dataset_complete.csv)
 
 ## Objetivo
 Classificar textos em inglês em duas classes: `human` e `ai`, seguindo o enunciado do trabalho prático.
